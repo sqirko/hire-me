@@ -1,0 +1,10 @@
+.center {
+	background-color: azure;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	text-align: center;
+	padding-left: 3%;
+	padding-top: 10px;
+}
