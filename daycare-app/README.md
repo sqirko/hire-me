@@ -19,6 +19,6 @@ The main purpose of this application is to be able to use the provided APIs for 
 
 1. Clone the repository
 2. Open a terminal in the 'daycare-app' folder
-3. `$ npm install`
+3. `$ npm install`  
    `$ npm start`
 4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
